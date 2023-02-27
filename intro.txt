@@ -3,5 +3,7 @@ I have studied web web development technologies like JavaScript, SQL, React, Boo
 I like programming,research and development and traveling.
 I am revising basic git commands here.
 Git is the best version control.
+Learning git is easy and fun, sometimes complex to solve problems too.
+
 
 
